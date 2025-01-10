@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Function to count the number of lines in text files for a specific owner
+# Function to count the number of lines in text files for a specific owner a commit test
 count_lines_by_owner() {
   owner=$1
   count=0
